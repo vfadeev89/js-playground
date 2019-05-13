@@ -72,3 +72,9 @@ const johnAthlete6 = new Athlete6('John', 1990, 'swimmer', 3, 10);
 
 johnAthlete6.wonMedal();
 johnAthlete6.calculateAge();
+
+
+/* 
+nice article
+http://frontendnotes.net/what-the-difference-between-object-create-and-new-keyword/
+*/
